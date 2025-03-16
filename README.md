@@ -374,3 +374,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 Change 1 in branch1
+Change 2 in branch1
